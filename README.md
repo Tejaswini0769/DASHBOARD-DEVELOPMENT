@@ -18,3 +18,5 @@ This Power BI dashboard project is designed to analyze and monitor patient waiti
 
 OUTCOME:
 
+![Image](https://github.com/user-attachments/assets/e3c8a940-7bdf-4028-a42b-9b647f093d77)
+
